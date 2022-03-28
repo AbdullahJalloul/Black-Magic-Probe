@@ -21,7 +21,7 @@
 
 ![3](3.jpg)
 
-![Black Magic Probe V2.0](Black Magic Probe V2.0.png)
+![4](Black Magic Probe V2.0.png)
 
-![Black Magic Probe V2.0 Sch](Black Magic Probe V2.0 Sch.png)
+![5](Black Magic Probe V2.0 Sch.png)
 
